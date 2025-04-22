@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gustidimas
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Next.JS
+- 📫 How to reach me mailto:dimas_gusti@icloud.com
